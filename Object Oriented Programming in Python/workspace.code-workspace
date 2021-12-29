@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"code-runner.clearPreviousOutput": true,
+		"code-runner.runInTerminal": true,
+		"code-runner.saveFileBeforeRun": true
+	}
+}
